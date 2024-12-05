@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #202021;
+    height: 100vh;
+}
+
+.nav {
+    width: 40vh;
+    background-color: black;
+    height: 105vh;
+    position: relative;
+}
+
+.logo img {
+    width: 150px;
+    margin: 30px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image img {
+    width: 20px;
+    margin: 20px;
+}
+
+.three {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 0px 0px 8px;
+    gap: 10px;
+    border-radius: 5px;
+}
+
+.three1 {
+    background-color: #333;
+    width: 240px;
+    height: 40px;
+}
+
+.three2 {
+    width: 240px;
+    height: 40px;
+}
+
+.home1 {
+    margin: 25px 0px 0px 0px;
+}
+
+.th {
+    width: 240px;
+    height: 40px;
+}
+
+.f {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 30px;
+}
+
+.install {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}

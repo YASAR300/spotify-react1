@@ -1,0 +1,59 @@
+.last {
+    background-color: #282828;
+    position: sticky;
+    bottom: 0;
+}
+
+.last .bottom1 .right {
+    display: flex;
+    width: 100px;
+    height: 53px;
+}
+
+.last .bottom {
+    width: 100vw;
+    background-color: #1FD761;
+    text-align: right;
+}
+
+.bottom1 {
+    display: flex;
+}
+
+.bottom1 span {
+    margin: 18px 1px;
+}
+
+.bottom1 .heart {
+    width: 20px;
+    height: 20px;
+    margin: 20px 10px;
+}
+
+.bottom1 .middle img {
+    width: 550px;
+    margin: 0px 180px;
+}
+
+.bottom1 .left img {
+    width: 210px;
+    margin: 25px 12px;
+}
+
+.bottom1 .right {
+    flex: 1;
+}
+
+.bottom1 .right .j {
+    height: 47px;
+    width: 49px;
+    margin: 12px 10px;
+}
+
+.bottom {
+    background-color: #1FD761;
+    text-align: right;
+    width: 100vw;
+    position: sticky;
+    bottom: 0;
+}
